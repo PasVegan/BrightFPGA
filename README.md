@@ -26,8 +26,6 @@ For this basic project you could use any software such as Intel Quartus Prime, M
 | 1      | 1        | 1        | 1 Hz                |
 
 ### Overview diagram
-<p align="center">
-  <img src="https://github.com/PasVegan/BrightFPGA/overview.png">
-</p>
+<img src="https://github.com/PasVegan/BrightFPGA/blob/main/overview.png">
 
 You can find a detailled schematic of the synthetized design on a Spartan-7 FPGA in the schematic.pdf
